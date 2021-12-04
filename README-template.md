@@ -42,8 +42,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://iyefreedy.github.io/intro-component-with-signup-form)
 
-s
-
 ### Built with
 
 - Semantic HTML5 markup
